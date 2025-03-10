@@ -1,0 +1,11 @@
+## Interface: 40402
+## Version: @project-version@
+## Title: LFG Status Icon
+## Author: TotalPackage, LudiusMaximus
+## Notes: Adds queue status indicators to the LFG "eye" icon.
+## X-Curse-Project-ID: 21457
+## X-WoWI-ID: 15273
+## X-Donate: PayPal:ludiusmaximus@gmail.com
+## X-License: The MIT License (MIT)
+
+core.lua
