@@ -5,6 +5,7 @@
 ## Notes: Adds queue status indicators to the LFG "eye" icon.
 ## X-Curse-Project-ID: 21457
 ## X-WoWI-ID: 15273
+## X-Wago-ID: rNkPO36a
 ## X-Donate: PayPal:ludiusmaximus@gmail.com
 ## X-License: The MIT License (MIT)
 

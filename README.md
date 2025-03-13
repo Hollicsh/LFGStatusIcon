@@ -1,2 +1,2 @@
 # LFG Status Icon
-Adds queue status indicators to the LFG "eye" icon.
+A Wow addon that adds queue status indicators to the LFG/LFR "eye" icon.
