@@ -1,6 +1,7 @@
-## Interface: 110107
+## Interface: 110200
 ## Version: @project-version@
 ## Title: LFG Status Icon
+## IconAtlas: groupfinder-eye-single
 ## Author: TotalPackage, LudiusMaximus
 ## Notes: Adds queue status indicators to the LFG "eye" icon.
 ## X-Curse-Project-ID: 21457
