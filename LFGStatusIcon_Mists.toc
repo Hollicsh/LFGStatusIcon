@@ -3,6 +3,7 @@
 ## Title: LFG Status Icon
 ## Author: TotalPackage, LudiusMaximus
 ## Notes: Adds queue status indicators to the LFG "eye" icon.
+## Notes-ruRU: Добавляет индикаторы состояния очереди к значку «глаза» LFG
 ## X-Curse-Project-ID: 21457
 ## X-WoWI-ID: 15273
 ## X-Wago-ID: rNkPO36a
